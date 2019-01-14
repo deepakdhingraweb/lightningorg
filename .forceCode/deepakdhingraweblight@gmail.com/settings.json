@@ -4,7 +4,7 @@
     "browser": "Google Chrome Canary",
     "checkForFileChanges": false,
     "debugFilter": "USER_DEBUG|FATAL_ERROR",
-    "debugOnly": true,
+    "debugOnly": false,
     "deployOptions": {
         "allowMissingFiles": true,
         "checkOnly": false,
